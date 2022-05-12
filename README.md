@@ -17,3 +17,7 @@
 <code><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1V8XV09A2ld0-V8KUFgslGG9usve0D4y8hA&usqp=CAU" height="25px"/></code>
 
 
+<br/>
+-current location Tashkent,Uzbekistan
+-Ask me about anything, I am happy to help
+-How to reach me nomozovn@list.ru
