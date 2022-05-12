@@ -4,7 +4,7 @@
 
 ### Languages and tools I work with:
 
-<code><img src="https://images.vexels.com/media/users/3/166382/isolated/preview/1ad81b62ad0ec81a584bc22016fd016f-html-programming-language-flat.png" height="25px"/></code>
+
 <code><img src="https://e7.pngegg.com/pngimages/465/779/png-clipart-blue-and-white-c-logo-the-c-programming-language-computer-programming-computer-icons-programmer-blue-angle.png" height="25px"/></code>
 
 <code><img src="https://images.vexels.com/media/users/3/166382/isolated/preview/1ad81b62ad0ec81a584bc22016fd016f-html-programming-language-flat.png" height="25px"/></code>
