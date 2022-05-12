@@ -10,6 +10,6 @@
 <code><img src="https://www.pngkit.com/png/detail/222-2229874_95kib-400x400-css-logo-css-png.png" height="25px"/></code>
 <code><img src="https://cutewallpaper.org/24/bootstrap-logo-png/download-bootstrap-logo-transparent-png-image-with-no-background--pngkeycom.png" height="25px"/></code>
 <code><img src="https://logowik.com/content/uploads/images/3799-javascript.jpg" height="25px"/></code>
-<code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Python_logo_and_wordmark.svg/2560px-Python_logo_and_wordmark.svg.png"</code>
+<code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Python_logo_and_wordmark.svg/2560px-Python_logo_and_wordmark.svg.png"/></code>
 <code><img src="https://toppng.com/uploads/preview/django-python-logo-apress-the-definitive-guide-to-django-web-development-11562875828mqany5qert.png" height="25px"/></code>
 
