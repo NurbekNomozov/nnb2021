@@ -1,7 +1,7 @@
 ### Hi, I'm Nomozov Nurbek 👋
 
 <img src="https://media0.giphy.com/media/gM5qFksULw54NMWyry/giphy.gif?cid=ecf05e47zsoghmtp1ge6zplau8lvbgm5lbuidz2w9f7yxbe8&rid=giphy.gif&ct=s" width="130px"/>
-<!-- 
+
 ### Languages and tools I work with:
 
 
@@ -16,4 +16,4 @@
 <code><img src="https://toppng.com/uploads/preview/django-python-logo-apress-the-definitive-guide-to-django-web-development-11562875828mqany5qert.png" height="25px"/></code>
 <code><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1V8XV09A2ld0-V8KUFgslGG9usve0D4y8hA&usqp=CAU" height="25px"/></code>
 
- -->
+
