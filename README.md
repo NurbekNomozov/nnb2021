@@ -12,4 +12,5 @@
 <code><img src="https://logowik.com/content/uploads/images/3799-javascript.jpg" height="25px"/></code>
 <code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Python_logo_and_wordmark.svg/2560px-Python_logo_and_wordmark.svg.png" height="25px"/></code>
 <code><img src="https://toppng.com/uploads/preview/django-python-logo-apress-the-definitive-guide-to-django-web-development-11562875828mqany5qert.png" height="25px"/></code>
+<code><img src="https://logodix.com/logo/2041334.png" height="25px"/></code>
 
