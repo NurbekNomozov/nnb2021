@@ -18,6 +18,4 @@
 
 
 <br/>
--current location Tashkent,Uzbekistan
--Ask me about anything, I am happy to help
--How to reach me [@nomozovn@list.ru]
+How to reach me: nomozovn@list.ru
