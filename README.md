@@ -8,5 +8,5 @@
 
 <code><img src="https://miro.medium.com/max/870/1*fC1TiemRWYDWObQUlpAnBg.png" height="25px"/></code>
 <code><img src="https://www.pngkit.com/png/detail/222-2229874_95kib-400x400-css-logo-css-png.png" height="25px"/></code>
-<code><img src="https://cutewallpaper.org/24/bootstrap-logo-png/download-bootstrap-logo-transparent-png-image-with-no-background--pngkeycom.png" height="25px"</code>
+<code><img src="https://cutewallpaper.org/24/bootstrap-logo-png/download-bootstrap-logo-transparent-png-image-with-no-background--pngkeycom.png" height="25px"/></code>
 
